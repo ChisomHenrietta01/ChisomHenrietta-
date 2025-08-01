@@ -7,8 +7,8 @@ I developed Cyberspace Learners Hub (https://cmorba032.wixsite.com/cybersafehub)
 I am also exploring data security project, networks and ethical hacking scripts. 
 Connect with me: (https://www.linkedin.com/in/morbahenrietta) 
 
- Skills & Tools
-Cybersecurity Fundamentals: Network Security, Threat Detection, Ethical Hacking Basics
+ Skills & Tools: 
+Cybersecurity Fundamentals, Network Security, Threat Detection, Ethical Hacking Basics
  Python for Security & Automation
  Wireshark • Nmap • Kali Linux Basics
 
